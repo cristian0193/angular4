@@ -1,0 +1,71 @@
+html,
+body {
+    padding: 10px;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+button:hover {
+    opacity: 0.5;
+}
+
+.circulo {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+.largo {
+    width: 220px;
+    height: 85px;
+    border-radius: 60px 60px 60px 60px;
+}
+
+input[type="text"] {
+    font-size: 6em;
+    height: 70%;
+    text-align: right;
+    color: white;
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.boton-gris {
+    background-color: #d6d6d6;
+    border: #d6d6d6;
+}
+
+.boton-gris-oscuro {
+    background-color: #7a7a7a;
+    border: #7a7a7a;
+}
+
+.boton-naranja {
+    background-color: #ff9600;
+    border: #ff9600;
+}
+
+.texto-blanco {
+    color: white;
+    font-size: 2.5em;
+}
+
+.texto-negro {
+    color: black;
+    font-size: 2.5em;
+}
+
+.texto-negrilla {
+    font-weight: bold;
+    text-shadow: 1px 2px #999;
+}
+
+.thumbnail {
+    border-radius: 10px;
+}
